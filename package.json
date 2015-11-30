@@ -1,0 +1,23 @@
+{
+  "name": "json-fixtures",
+  "version": "0.1.0",
+  "description": "A useful set of json fixtures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apinnecke/json-fixtures.git"
+  },
+  "keywords": [
+    "json",
+    "fixtures"
+  ],
+  "author": "Alexander Pinnecke <alexander.pinnecke@googlemail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apinnecke/json-fixtures/issues"
+  },
+  "homepage": "https://github.com/apinnecke/json-fixtures#readme"
+}
